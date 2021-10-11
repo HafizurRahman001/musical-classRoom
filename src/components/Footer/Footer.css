@@ -1,0 +1,22 @@
+.footer {
+  background-color: rgba(220, 20, 60, 0.808);
+  padding: 30px 30px;
+}
+.social-media-icon {
+  font-size: 35px;
+  padding: 0px 10px;
+  color: antiquewhite;
+  cursor: pointer;
+}
+.social-media-icon:hover {
+  color: rgb(194, 159, 159);
+}
+.unordered-list {
+  list-style: none;
+}
+.unordered-list li {
+  display: inline;
+  margin: 0px 10px;
+  padding: 0px 2px;
+  cursor: pointer;
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "img": "https://1.bp.blogspot.com/-amhbkpDiYkw/YVnqwYKixuI/AAAAAAAAMJ8/uE71sBm5wPw87RCZRTtW92Qq2ZLtiTIvQCLcBGAsYHQ/s832/piano%2Blessons.jpg",
+        "title": "Piano Lesson",
+        "desc": "Piano pedagogy is the study of the teaching of piano playing. Whereas the professional field of music education pertains to the teaching of music in school classrooms or group settings, piano pedagogy focuses on the teaching of musical skills to individual piano students.",
+        "teacher": "Robarto Russel",
+        "video": 250,
+        "time": 500,
+        "price": 1000,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "img": "https://1.bp.blogspot.com/-VOeyp8DwXSk/YVnqwTrZZeI/AAAAAAAAMJ4/PyHKVJCDVu4vlvDnc1PoDFgQRxGzofnYgCLcBGAsYHQ/s832/guiter%2Blesson.png",
+        "title": "Guiter Lesson",
+        "desc": "The guitar is classified as a chordophone – meaning the sound is produced by a vibrating string stretched between two fixed points. Historically, a guitar was constructed from wood with its strings made of catgut. Steel guitar strings were introduced near the end of the nineteenth century in the United States;[1] nylon strings came in the 1940s.[1] The guitar's ancestors include the gittern, the vihuela, the four-course Renaissance guitar, and the five-course baroque guitar, all of which contributed to the development of the modern six-string instrument.",
+        "teacher": "Daniyel Darkmon",
+        "video": 150,
+        "time": 400,
+        "price": 3120,
+        "rating": 4.9
+    },
+    {
+        "id": 3,
+        "img": "https://1.bp.blogspot.com/-pW0Rz61U_8Y/YVnqu1fLExI/AAAAAAAAMJw/B9XXLyzrg9sHjyDixflIZ7flEldp42PSACLcBGAsYHQ/s832/drum%2Blesson.jpg",
+        "title": "Drum Lesson",
+        "desc": "Drum lessons teach students the know-how of what it takes to be an accomplished drummer.  Drum lessons target rhythm as the foundation of any good band.  We also work on coordination and technique so that our students can advance through many rudiments and polyrhythms. It is our goal to have every drummer try our band program and learn other styles of music while performing.  These opportunities are exciting for our students, and help them see the benefit to practicing as well as connecting with other musicians.",
+        "teacher": "Jammi Jonson",
+        "video": 370,
+        "time": 520,
+        "price": 2800,
+        "rating": 3.7
+    },
+    {
+        "id": 4,
+        "img": "https://1.bp.blogspot.com/-Xc0QjlXzRNY/YVnqxeNb__I/AAAAAAAAMKE/PmLENA2HevcNRM6kMS9Zm-li3YdUshQWACLcBGAsYHQ/s832/violine.jpg",
+        "title": "Violine Lesson",
+        "desc": "We offer Violin lessons for students ages 3 years to adult.  Though we specialize in teaching beginner violin lessons our instructors move students through intermediate and advanced levels quickly.  We offer both traditional Fiddle and Suzuki style instruction. Whether you want to play “Devil went down to Georgia” or a Bach Sonata, we will help you reach your goals.",
+        "teacher": "John Piterson",
+        "video": 400,
+        "time": 325,
+        "price": 2200,
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "img": "https://1.bp.blogspot.com/-_Tgu9RA6Anw/YVnquqefoBI/AAAAAAAAMJo/iskEeKlKP3U8--DogC3cR6xLMjmkO291gCLcBGAsYHQ/s832/bass%2Bguiter.jpg",
+        "title": "Bass Guiter Lesson",
+        "desc": "Bass guitar lessons teach students the know-how of what it takes to be an accomplished bass player.  Bass guitar lessons are simple and effective with the the purpose of playing in a band.  We work through the basics of technique and reading while doing a whole lot of playing.  Reading tab and eventually notation is a value for advanced musicians.  We focus on the music that inspires the student first then explore other genres and styles.  Mastering each style such as blues, rock, jazz and pop is important and we visit each style through specific artists.",
+        "teacher": "Saymon Salmani",
+        "video": 420,
+        "time": 430,
+        "price": 2940,
+        "rating": 3.7
+    },
+    {
+        "id": 6,
+        "img": "https://1.bp.blogspot.com/-MGQzcSLDIOA/YVnquxjCSyI/AAAAAAAAMJs/QrChzk3xLXUBEcXClHEo6oQD1vcDI4LoQCLcBGAsYHQ/s832/clarinet.jpg",
+        "title": "Clarinet Lesson",
+        "desc": "A woodwind instrument with a beautiful sound and pure even tone, the clarinet has one of the largest ranges of pitch of all musical instruments. Whether you’re learning for school band or on your own, Creative Soul provides individually tailored clarinet lessons for students of all ages and levels. Beginning students start with the fundamentals of clarinet lessons, including clarinet assembly, proper reed position, embouchure (use of facial muscles and the shaping of the lips to the mouthpiece of woodwind instruments), efficient breathing and air stream.",
+        "teacher": "Daniyel Dosa",
+        "video": 360,
+        "time": 120,
+        "price": 2200,
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "img": "https://1.bp.blogspot.com/-_uRhf43U0jE/YVnqvx0YP4I/AAAAAAAAMJ0/qo4SjBHtsRwSB5ihJMmbdMnhJGLAQEC9gCLcBGAsYHQ/s832/flute.jpg",
+        "title": "Flute Lesson",
+        "desc": "The flute is a family of musical instruments in the woodwind group. Unlike woodwind instruments with reeds, a flute is an aerophone or reedless wind instrument that produces its sound from the flow of air across an opening. According to the instrument classification of Hornbostel–Sachs, flutes are categorized as edge-blown aerophones.[1] A musician who plays the flute can be referred to as a flute player, flautist, flutist or, less commonly, fluter or flutenist.",
+        "teacher": "Watson Priker Hart",
+        "video": 280,
+        "time": 170,
+        "price": 1235,
+        "rating": 3.9
+    },
+    {
+        "id": 8,
+        "img": "https://1.bp.blogspot.com/-prcr4-LgDUY/YVnqxbcPyKI/AAAAAAAAMKI/IjkrMVwVbMQWe4OT4NPCPx9MZnehEN_MgCLcBGAsYHQ/s832/voice.jpg",
+        "title": "Voice Lesson",
+        "desc": "At Creative Soul School of Music in Dallas-Fort Worth, our voice lessons allow students to choose their own songs. Our instructors guide them based on their unique gifts and talents. We strongly encourage students to branch out into different styles of music, including: rock, pop and classical, all while learning fundamental voice techniques. We find it important that during voice lessons students should learn to breathe correctly, create a clear tone, project and understand melody and phrasing.",
+        "teacher": "Bond Salmon Tie",
+        "video": 420,
+        "time": 380,
+        "price": 1400,
+        "rating": 4.7
+    },
+    {
+        "id": 9,
+        "img": "https://1.bp.blogspot.com/-5GPY2tf-ipU/YVnqwtaoYzI/AAAAAAAAMKA/5mflsPVTomAGEX9sp3rEZE4D9LEKgW-oQCLcBGAsYHQ/s832/ukulele.jpg",
+        "title": "Ukulele Lesson",
+        "desc": "The average cost for a guitar is $300 to $500. The average cost of a ukulele is $50 to $300, depending on the quality and size. This means it's a great instrument to try if you aren't sure about your kid's talent or interest in music. You get to expose them to all the positive benefits of learning an instrument without paying an arm and a leg for an instrument which might just gather dust in the corner.",
+        "teacher": "Ema Drikless Part",
+        "video": 150,
+        "time": 300,
+        "price": 2150,
+        "rating": 2.8
+    }
+]

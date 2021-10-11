@@ -1,0 +1,14 @@
+.description {
+  color: rgb(116 115 115);
+  text-align: justify;
+}
+.title {
+  background-color: #dddddd94;
+}
+.card-section {
+  box-shadow: 2px 2px 7px #5c4e4e;
+}
+.card-image {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
